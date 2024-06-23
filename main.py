@@ -73,5 +73,3 @@ class dns:
 
 server = dns()
 server.start_server()
-
-
